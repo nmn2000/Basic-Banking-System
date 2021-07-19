@@ -1,18 +1,14 @@
-# Basic-Banking-System-The-Sparks-Foundation
-Compiled By: S NAMAN
-GRIP Internship Project : Basic Banking System
+# the-sparks-foundation
+Sparks Foundation Internship Project : Basic Banking System  
+A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.  
 
-A Web based Application which is used to transfer money between multiple users. A dummy user can also be created.
-Here,we have created 10 dummy users.
+Stack used - 
+Front-end : HTML, CSS, Bootstrap & Javascript 
+Back-end : PHP 
+Database : MySQL   
 
-Front-end Developed using  : HTML, CSS, Bootstrap & Javascript 
-Back-end Developed using: PHP 
-Database : MySQL
-
-Database contains 2 Tables- Users Table & Transaction Table
-
-User table has basic fields such as name, email & current balance.
-
-Transaction table records all transfers happened along with their time.
+Database contains two Tables- Users Table & Transaction Table 
+1. User table have basic fields such as name, email & current balance. 
+2. Transaction table records all transfers happened along with their time.  
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
